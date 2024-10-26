@@ -1,4 +1,4 @@
-https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.posters.pl%2Fplotno-cars-3-jackson-storm-v78087&psig=AOvVaw1NSbeC8u0XV0Vr3ifyPGpM&ust=1730063801141000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDO_IX8rIkDFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Mert Melih Güler</h1>
 <h3 align="center">A passionate frontend developer from Turkey 🇹🇷</h3>
 
