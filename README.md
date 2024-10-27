@@ -1,8 +1,12 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOTJf6PN5R4tl4x7KHn4ECPlhHLcgniBWPw&s)
+![MasterHead](https://yazilimgelistirici.subu.edu.tr/storage/61/conversions/yazilim-dilleri-ve-kullanim-alanlari-image.jpg)
 <h1 align="center">Hi 👋, I'm Mert Melih Güler</h1>
 <h3 align="center">A passionate frontend developer from Turkey 🇹🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertmelihguler83&label=Profile%20views&color=0e75b6&style=flat" alt="mertmelihguler83" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertmelihguler83&label=G%C3%B6r%C3%BCnt%C3%BClenme&color=0e75b6&style=flat" alt="mertmelihguler83" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertmelihguler83" alt="mertmelihguler83" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertmelihguler83&show_icons=true&locale=en" alt="mertmelihguler83" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertmelihguler83&theme=dark" alt="mertmelihguler83" /></p>
+
