@@ -1,4 +1,4 @@
-![MasterHead](https://yazilimgelistirici.subu.edu.tr/storage/61/conversions/yazilim-dilleri-ve-kullanim-alanlari-image.jpg)
+
 <h1 align="center">Hi 👋, I'm Mert Melih Güler</h1>
 <h3 align="center">A passionate frontend developer from Turkey 🇹🇷</h3>
 
